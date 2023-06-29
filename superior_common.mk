@@ -5,7 +5,7 @@
 #
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/gs101/overlay-calyx
+DEVICE_PACKAGE_OVERLAYS += device/google/gs101/overlay-superior
 
 # EUICC
 PRODUCT_PACKAGES += \

@@ -389,4 +389,4 @@ BOARD_PVMFWIMAGE_PARTITION_SIZE := 0x00100000
 
 -include vendor/google_devices/gs-common/proprietary/BoardConfigVendor.mk
 
-include device/google/gs101/BoardConfig-calyx.mk
+include device/google/gs101/BoardConfig-superior.mk
